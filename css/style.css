@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg-img-1{
+    background-image: url(../resource/imageii.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+#informatico{
+    font-size: large;
+}
